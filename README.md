@@ -3,8 +3,8 @@
 
 This repository contains code and example data used in the study:
 
-**Machine Learning Approaches for Core Porosity Prediction Using Well Log Data**  
-(Manuscript in preparation / submitted)
+**Scale-Consistent Machine Learning for Core Porosity Prediction from Conventional Well Logs: Multi-Basin Application in the Southern Dutch Rift System**  
+(Manuscript submitted)
 
 The main component is a Jupyter notebook that performs **manual depth alignment (warping)** between
 core plug porosity measurements and well log depths, and exports an aligned dataset for machine learning.
